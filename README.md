@@ -5,4 +5,5 @@
 - 🧑‍💻 I like to create programs & websites for solving common problems
 - 🤔 Always looking for friends like me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankt25&theme=tokyonight)]
+# Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankt25&theme=tokyonight)
