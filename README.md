@@ -1,6 +1,6 @@
 # Hi 👋
 
-- 🙎 I’m a full stack web developer
+- 🙎 I’m a full stack web developer and a flutter developer
 - 📖 I learn new things everyday
 - 🧑‍💻 I like to create programs & websites for solving common problems
 - 🤔 Always looking for friends like me
